@@ -49,3 +49,4 @@
 ## Solving the over the wire:the Bandits:
 ### Level 0 
 
+![screeshot](level_0.png)
