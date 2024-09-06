@@ -44,3 +44,8 @@
 
 - `sudo apt-get update`: Update all available packages.
 - `sudo apt-get -y install [application]`: Install a specific software.
+
+
+## Solving the over the wire:the Bandits:
+### Level 0 
+
