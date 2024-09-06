@@ -1,7 +1,7 @@
 # Hack to learn hacking
-###ayush ghimire
-## DLL (Dynamic Link Library) Sideloading
-
+### ayush ghimire
+## DLL (Dynamic Link Library) Sideloading 
+### by Anne Hautakangas
 - Hackers use DLL files to bypass antivirus and EDR systems.
 - DLL files are found inside the program files of applications.
 - DLLs perform calculations and various functions for software.
