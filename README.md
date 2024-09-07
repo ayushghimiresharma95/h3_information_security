@@ -77,6 +77,8 @@
 
 ![screenshot](ping_1.1.png)
 
-the "ping" is sending a ICMP request packets to the ip address 1.1.1.1, but it is receiving a response message of "destination host unreachable", this generally means that there is network problem between the host and the ip address "1.1.1.1". On analaysing the statistics report it shows that 47 packets were sent , out of 100% of the packets were lost.
+The "ping" is sending a ICMP request packets to the ip address 1.1.1.1, but it is receiving a response message of "destination host unreachable", this generally means that there is network problem between the host and the ip address "1.1.1.1". On analaysing the statistics report it shows that 47 packets were sent , out of 100% of the packets were lost.
+There can be problem with the local network also such as misconfigured tables or fireballs to prevent entering the traffic from reaching the deatination 1.1.1.1.
 
+ 
 
