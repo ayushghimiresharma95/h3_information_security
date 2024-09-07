@@ -85,7 +85,7 @@ There can be problem with the local network also such as misconfigured tables or
 In the above photo , icmp has succesfully reached ip address 1.1.1.1 , each response has returned within reasonable time range [ 27 ms to 163 ms], which also indicates that in the above mage , there was a netork issues. 
 
 
-##Port Scanning 
+## Port Scanning 
 
 ![screenshot](port_scanning_before_ssh_apcahe2.png) 
 
