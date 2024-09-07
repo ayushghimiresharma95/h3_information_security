@@ -65,7 +65,7 @@
 ### Level 3
 ![screeshot](level_3.png)
 
-![screeshot](level_3.png)
+![screeshot](level_3.1.png)
 
 ### Level 4
 
